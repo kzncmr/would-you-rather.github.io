@@ -1,0 +1,3516 @@
+{
+  "questions": {
+    "celebrity": [
+      {
+        "id": "b1813716-0a6b-433a-b531-cd2d94918d5c",
+        "option1": {
+          "text": {
+            "tr": "En sevdiğin aktörle tanışmak",
+            "en": "Meet your favorite actor"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Actor"
+        },
+        "option2": {
+          "text": {
+            "tr": "En sevdiğin şarkıcıyla tanışmak",
+            "en": "Meet your favorite singer"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Singer"
+        },
+        "votes1": 1,
+        "votes2": 1
+      },
+      {
+        "id": "7d1c1911-d833-46ce-a674-7c95243db075",
+        "option1": {
+          "text": {
+            "tr": "Tom Hanks ile bir filmde oynamak",
+            "en": "Star in a movie with Tom Hanks"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TomHanks"
+        },
+        "option2": {
+          "text": {
+            "tr": "Dwayne Johnson ile bir filmde oynamak",
+            "en": "Star in a movie with Dwayne Johnson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DwayneJohnson"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "6e057bb8-c853-478c-94ac-d59f331cae9c",
+        "option1": {
+          "text": {
+            "tr": "Oprah tarafından röportaj yapılması",
+            "en": "Be interviewed by Oprah"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Oprah"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jimmy Fallon tarafından röportaj yapılması",
+            "en": "Be interviewed by Jimmy Fallon"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JimmyFallon"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "ec5c8d71-c8c0-4ce3-935e-718e45fa6595",
+        "option1": {
+          "text": {
+            "tr": "Oscar Töreni’ne katılmak",
+            "en": "Attend the Oscars"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Oscars"
+        },
+        "option2": {
+          "text": {
+            "tr": "Met Gala’ya katılmak",
+            "en": "Attend the Met Gala"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MetGala"
+        },
+        "votes1": 1,
+        "votes2": 1
+      },
+      {
+        "id": "afd83b8e-4d40-4548-8632-1164b4b9cd6f",
+        "option1": {
+          "text": {
+            "tr": "Taylor Swift ile akşam yemeği yemek",
+            "en": "Have dinner with Taylor Swift"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TaylorSwift"
+        },
+        "option2": {
+          "text": {
+            "tr": "Beyoncé ile akşam yemeği yemek",
+            "en": "Have dinner with Beyoncé"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Beyonce"
+        },
+        "votes1": 1,
+        "votes2": 0
+      },
+      {
+        "id": "a4b861ca-4a05-413a-9132-60cbb6ec3221",
+        "option1": {
+          "text": {
+            "tr": "Ryan Reynolds ile en iyi arkadaş olmak",
+            "en": "Be best friends with Ryan Reynolds"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RyanReynolds"
+        },
+        "option2": {
+          "text": {
+            "tr": "Chris Hemsworth ile en iyi arkadaş olmak",
+            "en": "Be best friends with Chris Hemsworth"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChrisHemsworth"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d78c052d-21fb-40fe-903e-e5a9287c9f2e",
+        "option1": {
+          "text": {
+            "tr": "Zendaya’dan moda tavsiyesi almak",
+            "en": "Get fashion advice from Zendaya"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Zendaya"
+        },
+        "option2": {
+          "text": {
+            "tr": "Rihanna’dan moda tavsiyesi almak",
+            "en": "Get fashion advice from Rihanna"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Rihanna"
+        },
+        "votes1": 2,
+        "votes2": 0
+      },
+      {
+        "id": "3a1ad1d9-2921-4b14-b615-6f8e95271918",
+        "option1": {
+          "text": {
+            "tr": "Dünyayı BTS ile gezmek",
+            "en": "Tour the world with BTS"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BTS"
+        },
+        "option2": {
+          "text": {
+            "tr": "Dünyayı Coldplay ile gezmek",
+            "en": "Tour the world with Coldplay"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Coldplay"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "b443c95d-d3e9-45ca-a959-d31ec9bac340",
+        "option1": {
+          "text": {
+            "tr": "Bir Marvel filminde oynamak",
+            "en": "Act in a Marvel movie"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Marvel"
+        },
+        "option2": {
+          "text": {
+            "tr": "Harry Potter yan hikâyesinde oynamak",
+            "en": "Act in a Harry Potter spin-off"
+          },
+          "image": "https://via.placeholder.com/600x400?text=HarryPotter"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "00894ddf-0e85-4607-8580-c92e2013a0ca",
+        "option1": {
+          "text": {
+            "tr": "Kim Kardashian ile bir reality şovda yer almak",
+            "en": "Be on a reality show with Kim Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KimKardashian"
+        },
+        "option2": {
+          "text": {
+            "tr": "Gordon Ramsay ile bir reality şovda yer almak",
+            "en": "Be on a reality show with Gordon Ramsay"
+          },
+          "image": "https://via.placeholder.com/600x400?text=GordonRamsay"
+        },
+        "votes1": 0,
+        "votes2": 1
+      },
+      {
+        "id": "37455bf0-af03-406a-b86c-bbfe0be0a237",
+        "option1": {
+          "text": {
+            "tr": "Leonardo DiCaprio ile sette bir gün geçirmek",
+            "en": "Spend a day on set with Leonardo DiCaprio"
+          },
+          "image": "https://via.placeholder.com/600x400?text=LeonardoDiCaprio"
+        },
+        "option2": {
+          "text": {
+            "tr": "Brad Pitt ile sette bir gün geçirmek",
+            "en": "Spend a day on set with Brad Pitt"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BradPitt"
+        },
+        "votes1": 0,
+        "votes2": 1
+      },
+      {
+        "id": "b9cdb8ea-deda-4893-94f0-189b94d08d96",
+        "option1": {
+          "text": {
+            "tr": "Selena Gomez ile selfie çekmek",
+            "en": "Take a selfie with Selena Gomez"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SelenaGomez"
+        },
+        "option2": {
+          "text": {
+            "tr": "Ariana Grande ile selfie çekmek",
+            "en": "Take a selfie with Ariana Grande"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ArianaGrande"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "a7d73b7a-00fa-4269-a23c-c8eec009a846",
+        "option1": {
+          "text": {
+            "tr": "Ed Sheeran ile sahnede şarkı söylemek",
+            "en": "Perform live on stage with Ed Sheeran"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EdSheeran"
+        },
+        "option2": {
+          "text": {
+            "tr": "Justin Bieber ile sahnede şarkı söylemek",
+            "en": "Perform live on stage with Justin Bieber"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JustinBieber"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "1ba0ab15-614e-44e0-8073-7373c5f0f4b8",
+        "option1": {
+          "text": {
+            "tr": "Cannes Film Festivali’nde kırmızı halıda yürümek",
+            "en": "Walk the red carpet at Cannes Film Festival"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Cannes"
+        },
+        "option2": {
+          "text": {
+            "tr": "Altın Küre Ödülleri’nde kırmızı halıda yürümek",
+            "en": "Walk the red carpet at the Golden Globes"
+          },
+          "image": "https://via.placeholder.com/600x400?text=GoldenGlobes"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "c90cf3bb-2228-467e-9dbe-9cf20a09e52d",
+        "option1": {
+          "text": {
+            "tr": "Jamie Oliver ile yemek dersi almak",
+            "en": "Have a cooking lesson with Jamie Oliver"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JamieOliver"
+        },
+        "option2": {
+          "text": {
+            "tr": "Nusret ile yemek dersi almak",
+            "en": "Have a cooking lesson with Salt Bae"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SaltBae"
+        },
+        "votes1": 0,
+        "votes2": 1
+      },
+      {
+        "id": "1f2d0a73-9e66-45d5-be62-2eac3f3d0a76",
+        "option1": {
+          "text": {
+            "tr": "Shakira ile bir müzik klibinde yer almak",
+            "en": "Be in a music video with Shakira"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Shakira"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jennifer Lopez ile bir müzik klibinde yer almak",
+            "en": "Be in a music video with Jennifer Lopez"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JenniferLopez"
+        },
+        "votes1": 0,
+        "votes2": 1
+      },
+      {
+        "id": "0111e2b6-b3ff-41bb-a162-782537b3489f",
+        "option1": {
+          "text": {
+            "tr": "Grammy Ödülü kazanmak",
+            "en": "Win a Grammy Award"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Grammy"
+        },
+        "option2": {
+          "text": {
+            "tr": "Oscar Ödülü kazanmak",
+            "en": "Win an Academy Award"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Oscar"
+        },
+        "votes1": 1,
+        "votes2": 0
+      },
+      {
+        "id": "973ce584-3ee7-4acd-a5a5-0dbc68fed4ee",
+        "option1": {
+          "text": {
+            "tr": "Kylie Jenner ile alışverişe gitmek",
+            "en": "Go shopping with Kylie Jenner"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KylieJenner"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kim Kardashian ile alışverişe gitmek",
+            "en": "Go shopping with Kim Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KimKardashian"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "dffe3346-417e-4fe5-8b85-fb1664017b43",
+        "option1": {
+          "text": {
+            "tr": "Lady Gaga ile düet yapmak",
+            "en": "Do a duet with Lady Gaga"
+          },
+          "image": "https://via.placeholder.com/600x400?text=LadyGaga"
+        },
+        "option2": {
+          "text": {
+            "tr": "Adele ile düet yapmak",
+            "en": "Do a duet with Adele"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Adele"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "fe0d1b7d-d558-442c-93b2-5bcedfeb167c",
+        "option1": {
+          "text": {
+            "tr": "Kevin Hart ile bir komedi filminde oynamak",
+            "en": "Be in a comedy film with Kevin Hart"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KevinHart"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jason Statham ile bir aksiyon filminde oynamak",
+            "en": "Be in an action film with Jason Statham"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JasonStatham"
+        },
+        "votes1": 0,
+        "votes2": 1
+      },
+      {
+        "id": "c81c9342-aa67-4f2b-b14b-a89f1b5fe8f5",
+        "option1": {
+          "text": {
+            "tr": "Taylor Swift’ten sana özel bir şarkı almak",
+            "en": "Get a personalized song from Taylor Swift"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TaylorSwift"
+        },
+        "option2": {
+          "text": {
+            "tr": "Ed Sheeran’dan sana özel bir şarkı almak",
+            "en": "Get a personalized song from Ed Sheeran"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EdSheeran"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "06711aca-9065-47f8-bd71-0978386e66f6",
+        "option1": {
+          "text": {
+            "tr": "Millie Bobby Brown ile bir Netflix dizisinde oynamak",
+            "en": "Appear in a Netflix series with Millie Bobby Brown"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MillieBobbyBrown"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jenna Ortega ile bir Netflix dizisinde oynamak",
+            "en": "Appear in a Netflix series with Jenna Ortega"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JennaOrtega"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "7f53e3e6-6478-44ed-ad3f-51f10da64e2c",
+        "option1": {
+          "text": {
+            "tr": "Meryl Streep’ten oyunculuk dersi almak",
+            "en": "Take acting lessons from Meryl Streep"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MerylStreep"
+        },
+        "option2": {
+          "text": {
+            "tr": "Robert De Niro’dan oyunculuk dersi almak",
+            "en": "Take acting lessons from Robert De Niro"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RobertDeNiro"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "72a723fe-eb68-4dd7-b546-5a68f2181845",
+        "option1": {
+          "text": {
+            "tr": "Billie Eilish ile bir hafta turnede olmak",
+            "en": "Spend a week on tour with Billie Eilish"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BillieEilish"
+        },
+        "option2": {
+          "text": {
+            "tr": "Harry Styles ile bir hafta turnede olmak",
+            "en": "Spend a week on tour with Harry Styles"
+          },
+          "image": "https://via.placeholder.com/600x400?text=HarryStyles"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "1c6364fb-a368-4e14-8f04-a4c3d1e34230",
+        "option1": {
+          "text": {
+            "tr": "Jimmy Fallon’un “The Tonight Show” programına çıkmak",
+            "en": "Appear on “The Tonight Show” with Jimmy Fallon"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JimmyFallon"
+        },
+        "option2": {
+          "text": {
+            "tr": "Ellen DeGeneres’in “The Ellen Show” programına çıkmak",
+            "en": "Appear on “The Ellen Show” with Ellen DeGeneres"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EllenDeGeneres"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "f3240e4d-bc2c-434f-bd8a-f0f5ebf080d5",
+        "option1": {
+          "text": {
+            "tr": "Gigi Hadid ile fotoğraf çekimi yapmak",
+            "en": "Have a photoshoot with Gigi Hadid"
+          },
+          "image": "https://via.placeholder.com/600x400?text=GigiHadid"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kendall Jenner ile fotoğraf çekimi yapmak",
+            "en": "Have a photoshoot with Kendall Jenner"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KendallJenner"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "7ee54cfe-e902-473d-868f-c2dede923ed5",
+        "option1": {
+          "text": {
+            "tr": "Will Smith ile satranç oynamak",
+            "en": "Play chess with Will Smith"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WillSmith"
+        },
+        "option2": {
+          "text": {
+            "tr": "Keanu Reeves ile satranç oynamak",
+            "en": "Play chess with Keanu Reeves"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KeanuReeves"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "9d269a7b-fd2b-4ca6-aa72-3eb03104f6de",
+        "option1": {
+          "text": {
+            "tr": "Joe Rogan ile bir podcast kaydı yapmak",
+            "en": "Record a podcast with Joe Rogan"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JoeRogan"
+        },
+        "option2": {
+          "text": {
+            "tr": "Dwayne Johnson ile bir podcast kaydı yapmak",
+            "en": "Record a podcast with Dwayne Johnson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DwayneJohnson"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "9155d01e-ba19-4054-ac17-043f53460937",
+        "option1": {
+          "text": {
+            "tr": "Emma Watson ile bir yolculuğa çıkmak",
+            "en": "Go on a road trip with Emma Watson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EmmaWatson"
+        },
+        "option2": {
+          "text": {
+            "tr": "Emma Stone ile bir yolculuğa çıkmak",
+            "en": "Go on a road trip with Emma Stone"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EmmaStone"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "4fb8c79a-5dff-4e72-a2bd-348ccb303dd3",
+        "option1": {
+          "text": {
+            "tr": "Annie Leibovitz tarafından fotoğrafının çekilmesi",
+            "en": "Be photographed by Annie Leibovitz"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AnnieLeibovitz"
+        },
+        "option2": {
+          "text": {
+            "tr": "Mario Testino tarafından fotoğrafının çekilmesi",
+            "en": "Be photographed by Mario Testino"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MarioTestino"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "ce3ec713-6585-4860-8da8-b65cf3977f5c",
+        "option1": {
+          "text": {
+            "tr": "En sevdiğin aktörle bir günlüğüne yer değiştirmek",
+            "en": "Swap lives with your favorite actor for a day"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Actor"
+        },
+        "option2": {
+          "text": {
+            "tr": "En sevdiğin şarkıcıyla bir günlüğüne yer değiştirmek",
+            "en": "Swap lives with your favorite singer for a day"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Singer"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "39947078-81e3-496a-a00c-7cd7ca6d9de5",
+        "option1": {
+          "text": {
+            "tr": "Tom Hanks'in kişisel şefi olmak",
+            "en": "Be Tom Hanks' personal chef"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TomHanks"
+        },
+        "option2": {
+          "text": {
+            "tr": "Dwayne Johnson'ın kişisel fitness koçu olmak",
+            "en": "Be Dwayne Johnson's personal fitness trainer"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DwayneJohnson"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d3f1734f-23e4-4815-a93a-c80cd285bf88",
+        "option1": {
+          "text": {
+            "tr": "Beyoncé ile bir hayır galasında sahne tasarlamak",
+            "en": "Design a stage with Beyoncé for a charity gala"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Beyonce"
+        },
+        "option2": {
+          "text": {
+            "tr": "Adele ile bir hayır galasında şarkı seçmek",
+            "en": "Choose songs with Adele for a charity gala"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Adele"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "281c77b2-b2fb-46d9-9f01-4f96814d70ca",
+        "option1": {
+          "text": {
+            "tr": "Leonardo DiCaprio ile özel bir yatta tatil yapmak",
+            "en": "Vacation on a private yacht with Leonardo DiCaprio"
+          },
+          "image": "https://via.placeholder.com/600x400?text=LeonardoDiCaprio"
+        },
+        "option2": {
+          "text": {
+            "tr": "Brad Pitt ile özel bir adada kamp yapmak",
+            "en": "Camp on a private island with Brad Pitt"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BradPitt"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "412477eb-2dfb-420d-97ec-f47c34a2e1fd",
+        "option1": {
+          "text": {
+            "tr": "Rihanna ile bir moda markası için logo tasarlamak",
+            "en": "Design a logo for a fashion brand with Rihanna"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Rihanna"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kanye West ile bir sneaker koleksiyonu yaratmak",
+            "en": "Create a sneaker collection with Kanye West"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KanyeWest"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "c92a256b-1cc1-49dc-ab97-51837e60e042",
+        "option1": {
+          "text": {
+            "tr": "Chris Hemsworth ile bir Viking festivaline katılmak",
+            "en": "Attend a Viking festival with Chris Hemsworth"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChrisHemsworth"
+        },
+        "option2": {
+          "text": {
+            "tr": "Ryan Reynolds ile bir stand-up komedi şovuna gitmek",
+            "en": "Go to a stand-up comedy show with Ryan Reynolds"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RyanReynolds"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "5825f37b-1024-49c2-96d0-204fe450a470",
+        "option1": {
+          "text": {
+            "tr": "Taylor Swift ile hayranlara sürpriz bir konser düzenlemek",
+            "en": "Plan a surprise concert for fans with Taylor Swift"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TaylorSwift"
+        },
+        "option2": {
+          "text": {
+            "tr": "Billie Eilish ile bir hayran buluşması organize etmek",
+            "en": "Organize a fan meet-and-greet with Billie Eilish"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BillieEilish"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d5d79406-648a-4278-a5df-209aa4fc4911",
+        "option1": {
+          "text": {
+            "tr": "Meryl Streep ile bir tiyatro oyununun yönetmenliğini yapmak",
+            "en": "Direct a theater play with Meryl Streep"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MerylStreep"
+        },
+        "option2": {
+          "text": {
+            "tr": "Denzel Washington ile bir tiyatro oyununun senaryosunu yazmak",
+            "en": "Write a theater play script with Denzel Washington"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DenzelWashington"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "40cc0d4f-b375-4683-a819-6e292d0d080f",
+        "option1": {
+          "text": {
+            "tr": "Elon Musk ile Mars'ta bir koloni planlamak",
+            "en": "Plan a Mars colony with Elon Musk"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ElonMusk"
+        },
+        "option2": {
+          "text": {
+            "tr": "Mark Zuckerberg ile bir metaverse dünyası tasarlamak",
+            "en": "Design a metaverse world with Mark Zuckerberg"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MarkZuckerberg"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "acd1b4ce-4c99-4b1e-ae5a-2f0a6c5f99e6",
+        "option1": {
+          "text": {
+            "tr": "Oprah Winfrey ile bir kitap kulübü başlatmak",
+            "en": "Start a book club with Oprah Winfrey"
+          },
+          "image": "https://via.placeholder.com/600x400?text=OprahWinfrey"
+        },
+        "option2": {
+          "text": {
+            "tr": "Ellen DeGeneres ile bir hayır kurumu için bağış toplamak",
+            "en": "Raise funds for a charity with Ellen DeGeneres"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EllenDeGeneres"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "085bd20d-d224-49a1-90d1-8487bfa1fb9e",
+        "option1": {
+          "text": {
+            "tr": "Johnny Depp ile bir sanat sergisi düzenlemek",
+            "en": "Curate an art exhibition with Johnny Depp"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JohnnyDepp"
+        },
+        "option2": {
+          "text": {
+            "tr": "Keira Knightley ile bir tarih müzesi turu yapmak",
+            "en": "Tour a history museum with Keira Knightley"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KeiraKnightley"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "c6957ac9-be77-4cdb-a568-e866dba36942",
+        "option1": {
+          "text": {
+            "tr": "Lady Gaga ile bir çılgın kostüm partisi düzenlemek",
+            "en": "Throw a wild costume party with Lady Gaga"
+          },
+          "image": "https://via.placeholder.com/600x400?text=LadyGaga"
+        },
+        "option2": {
+          "text": {
+            "tr": "Katy Perry ile bir renk temalı parti planlamak",
+            "en": "Plan a color-themed party with Katy Perry"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KatyPerry"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "1dc4c59d-27dc-4b83-ad9f-0cf7f8ff1feb",
+        "option1": {
+          "text": {
+            "tr": "Robert Downey Jr. ile bir teknoloji girişimi başlatmak",
+            "en": "Start a tech startup with Robert Downey Jr."
+          },
+          "image": "https://via.placeholder.com/600x400?text=RobertDowneyJr"
+        },
+        "option2": {
+          "text": {
+            "tr": "Chris Evans ile bir çevre koruma kampanyası yürütmek",
+            "en": "Run an environmental campaign with Chris Evans"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChrisEvans"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "11e33ced-b9b4-4b2a-b315-3be1ce61e869",
+        "option1": {
+          "text": {
+            "tr": "Ariana Grande ile bir sosyal medya dans meydan okuması başlatmak",
+            "en": "Start a social media dance challenge with Ariana Grande"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ArianaGrande"
+        },
+        "option2": {
+          "text": {
+            "tr": "Dua Lipa ile bir sosyal medya şarkı yarışması düzenlemek",
+            "en": "Organize a social media singing contest with Dua Lipa"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DuaLipa"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "37ad76a2-7873-4833-8108-d87d7ee81f69",
+        "option1": {
+          "text": {
+            "tr": "Will Smith ile bir video oyunu tasarlamak",
+            "en": "Design a video game with Will Smith"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WillSmith"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kevin Hart ile bir komedi podcast'i başlatmak",
+            "en": "Start a comedy podcast with Kevin Hart"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KevinHart"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "f0d6714a-488a-46cf-8503-6b786c55bbb0",
+        "option1": {
+          "text": {
+            "tr": "Angelina Jolie ile bir mülteci kampını ziyaret etmek",
+            "en": "Visit a refugee camp with Angelina Jolie"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AngelinaJolie"
+        },
+        "option2": {
+          "text": {
+            "tr": "George Clooney ile bir insan hakları savunuculuğu yapmak",
+            "en": "Advocate for human rights with George Clooney"
+          },
+          "image": "https://via.placeholder.com/600x400?text=GeorgeClooney"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "63c5432a-c95c-40d0-b6b5-a090674b6a79",
+        "option1": {
+          "text": {
+            "tr": "Drake ile bir basketbol maçı organize etmek",
+            "en": "Organize a basketball game with Drake"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Drake"
+        },
+        "option2": {
+          "text": {
+            "tr": "Post Malone ile bir poker turnuvası düzenlemek",
+            "en": "Host a poker tournament with Post Malone"
+          },
+          "image": "https://via.placeholder.com/600x400?text=PostMalone"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "74af6dc7-c166-44e7-8716-9e3b86a6c6d3",
+        "option1": {
+          "text": {
+            "tr": "Jennifer Lawrence ile bir doğa yürüyüşüne çıkmak",
+            "en": "Go hiking with Jennifer Lawrence"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JenniferLawrence"
+        },
+        "option2": {
+          "text": {
+            "tr": "Emma Stone ile bir şehir turuna katılmak",
+            "en": "Join a city tour with Emma Stone"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EmmaStone"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "2a36cb8d-4bb3-472d-8ae8-df7fc9ff4581",
+        "option1": {
+          "text": {
+            "tr": "Justin Bieber ile bir sokak performansı yapmak",
+            "en": "Perform on the street with Justin Bieber"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JustinBieber"
+        },
+        "option2": {
+          "text": {
+            "tr": "Shawn Mendes ile bir akustik konser vermek",
+            "en": "Give an acoustic concert with Shawn Mendes"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ShawnMendes"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d3ba7f2e-f797-4b61-8dd2-fd578f814e8c",
+        "option1": {
+          "text": {
+            "tr": "Scarlett Johansson ile bir uzay temalı kaçış odası çözmek",
+            "en": "Solve a space-themed escape room with Scarlett Johansson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ScarlettJohansson"
+        },
+        "option2": {
+          "text": {
+            "tr": "Natalie Portman ile bir gizem temalı kaçış odası çözmek",
+            "en": "Solve a mystery-themed escape room with Natalie Portman"
+          },
+          "image": "https://via.placeholder.com/600x400?text=NataliePortman"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "8e1e0bcb-1fb7-4154-9ec2-d45946fa3eeb",
+        "option1": {
+          "text": {
+            "tr": "Ed Sheeran ile bir kamp ateşi etrafında şarkı söylemek",
+            "en": "Sing around a campfire with Ed Sheeran"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EdSheeran"
+        },
+        "option2": {
+          "text": {
+            "tr": "Bruno Mars ile bir karaoke gecesi düzenlemek",
+            "en": "Host a karaoke night with Bruno Mars"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BrunoMars"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "ab2d9041-af34-45d6-b35c-6df6766d0f5c",
+        "option1": {
+          "text": {
+            "tr": "Tom Cruise ile bir uçakla gökyüzünde akrobasi yapmak",
+            "en": "Do aerobatics in a plane with Tom Cruise"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TomCruise"
+        },
+        "option2": {
+          "text": {
+            "tr": "Vin Diesel ile bir araba yarışına katılmak",
+            "en": "Join a car race with Vin Diesel"
+          },
+          "image": "https://via.placeholder.com/600x400?text=VinDiesel"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "bd85adff-7676-4694-a324-3a208a27d7a6",
+        "option1": {
+          "text": {
+            "tr": "Selena Gomez ile bir yemek pişirme yarışmasına katılmak",
+            "en": "Compete in a cooking show with Selena Gomez"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SelenaGomez"
+        },
+        "option2": {
+          "text": {
+            "tr": "Zendaya ile bir dans yarışmasına katılmak",
+            "en": "Compete in a dance competition with Zendaya"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Zendaya"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "3c5971dd-1d53-4eda-93a2-191f21428c06",
+        "option1": {
+          "text": {
+            "tr": "Ryan Gosling ile bir vintage araba koleksiyonu gezmek",
+            "en": "Tour a vintage car collection with Ryan Gosling"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RyanGosling"
+        },
+        "option2": {
+          "text": {
+            "tr": "Channing Tatum ile bir dans stüdyosunda prova yapmak",
+            "en": "Rehearse in a dance studio with Channing Tatum"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChanningTatum"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "39421e60-bab3-4669-a437-9a62c7ad3a03",
+        "option1": {
+          "text": {
+            "tr": "Cardi B ile bir alışveriş çılgınlığına çıkmak",
+            "en": "Go on a shopping spree with Cardi B"
+          },
+          "image": "https://via.placeholder.com/600x400?text=CardiB"
+        },
+        "option2": {
+          "text": {
+            "tr": "Nicki Minaj ile bir rap freestyle yarışmasına katılmak",
+            "en": "Compete in a rap freestyle battle with Nicki Minaj"
+          },
+          "image": "https://via.placeholder.com/600x400?text=NickiMinaj"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "e0d80d2a-0b83-4f4b-9865-b41d6f79111e",
+        "option1": {
+          "text": {
+            "tr": "Hugh Jackman ile bir Broadway şovu için kostüm tasarlamak",
+            "en": "Design costumes for a Broadway show with Hugh Jackman"
+          },
+          "image": "https://via.placeholder.com/600x400?text=HughJackman"
+        },
+        "option2": {
+          "text": {
+            "tr": "Zac Efron ile bir dans koreografisi oluşturmak",
+            "en": "Create a dance choreography with Zac Efron"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ZacEfron"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "70054358-6d60-40cb-a3e7-79da4b9c5ef5",
+        "option1": {
+          "text": {
+            "tr": "Miley Cyrus ile bir çiftlikte bir gün geçirmek",
+            "en": "Spend a day on a farm with Miley Cyrus"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MileyCyrus"
+        },
+        "option2": {
+          "text": {
+            "tr": "Shakira ile bir plajda dans partisi düzenlemek",
+            "en": "Host a beach dance party with Shakira"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Shakira"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "aff83443-2b47-4439-8b2c-7b21e84d1d28",
+        "option1": {
+          "text": {
+            "tr": "Keanu Reeves ile bir motosiklet turuna çıkmak",
+            "en": "Go on a motorcycle road trip with Keanu Reeves"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KeanuReeves"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jason Statham ile bir araba kovalamaca simülasyonu yapmak",
+            "en": "Do a car chase simulation with Jason Statham"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JasonStatham"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "1266ef23-a854-4b36-a891-cb75c9597934",
+        "option1": {
+          "text": {
+            "tr": "Kylie Jenner ile bir güzellik vlogu çekmek",
+            "en": "Film a beauty vlog with Kylie Jenner"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KylieJenner"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kim Kardashian ile bir moda vlogu çekmek",
+            "en": "Film a fashion vlog with Kim Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KimKardashian"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "9efade56-b4d7-43f9-8054-348a220fa2b3",
+        "option1": {
+          "text": {
+            "tr": "Chris Pratt ile bir bilimkurgu temalı lunaparka gitmek",
+            "en": "Visit a sci-fi themed amusement park with Chris Pratt"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChrisPratt"
+        },
+        "option2": {
+          "text": {
+            "tr": "Adam Sandler ile bir su parkında eğlenmek",
+            "en": "Have fun at a water park with Adam Sandler"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AdamSandler"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "9325f2d8-3948-498a-8d7c-db3d17abe139",
+        "option1": {
+          "text": {
+            "tr": "Eminem ile bir rap battle şovuna ev sahipliği yapmak",
+            "en": "Host a rap battle show with Eminem"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Eminem"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jay-Z ile bir müzik festivali düzenlemek",
+            "en": "Organize a music festival with Jay-Z"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JayZ"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "c95b51df-f314-4806-9fc6-c2fab3e26a0f",
+        "option1": {
+          "text": {
+            "tr": "Margot Robbie ile bir vintage film gecesi düzenlemek",
+            "en": "Host a vintage movie night with Margot Robbie"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MargotRobbie"
+        },
+        "option2": {
+          "text": {
+            "tr": "Charlize Theron ile bir film festivalinde jüri olmak",
+            "en": "Be a jury member at a film festival with Charlize Theron"
+          },
+          "image": "https://via.placeholder.com/600x400?text=CharlizeTheron"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "c77948a7-62f0-4774-82e5-98a90b78ec1c",
+        "option1": {
+          "text": {
+            "tr": "The Weeknd ile bir gece kulübü açmak",
+            "en": "Open a nightclub with The Weeknd"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TheWeeknd"
+        },
+        "option2": {
+          "text": {
+            "tr": "Justin Timberlake ile bir bar tasarlamak",
+            "en": "Design a bar with Justin Timberlake"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JustinTimberlake"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "6f029ac7-3069-414c-869c-efd656d39755",
+        "option1": {
+          "text": {
+            "tr": "Sandra Bullock ile bir hayalet avına çıkmak",
+            "en": "Go ghost hunting with Sandra Bullock"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SandraBullock"
+        },
+        "option2": {
+          "text": {
+            "tr": "Reese Witherspoon ile bir define avına katılmak",
+            "en": "Join a treasure hunt with Reese Witherspoon"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ReeseWitherspoon"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "4656d4bf-3134-4d0a-b18d-1878fe288ffe",
+        "option1": {
+          "text": {
+            "tr": "Snoop Dogg ile bir barbekü partisi düzenlemek",
+            "en": "Host a BBQ party with Snoop Dogg"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SnoopDogg"
+        },
+        "option2": {
+          "text": {
+            "tr": "Lil Wayne ile bir sokak partisi organize etmek",
+            "en": "Organize a block party with Lil Wayne"
+          },
+          "image": "https://via.placeholder.com/600x400?text=LilWayne"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "2ac5cb40-a94c-4c0a-8923-180f82d25e0c",
+        "option1": {
+          "text": {
+            "tr": "Gal Gadot ile bir süper kahraman kostümü tasarlamak",
+            "en": "Design a superhero costume with Gal Gadot"
+          },
+          "image": "https://via.placeholder.com/600x400?text=GalGadot"
+        },
+        "option2": {
+          "text": {
+            "tr": "Brie Larson ile bir süper kahraman çizgi romanı yazmak",
+            "en": "Write a superhero comic with Brie Larson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BrieLarson"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "5d347ee5-1bda-4cdd-8d62-c5c5389b0f56",
+        "option1": {
+          "text": {
+            "tr": "Alicia Keys ile bir müzik okulunda gönüllü olmak",
+            "en": "Volunteer at a music school with Alicia Keys"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AliciaKeys"
+        },
+        "option2": {
+          "text": {
+            "tr": "John Legend ile bir çocuk korosu yönetmek",
+            "en": "Direct a children’s choir with John Legend"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JohnLegend"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "cee62e15-54c3-42ab-b917-86506db0b6f8",
+        "option1": {
+          "text": {
+            "tr": "Ben Affleck ile bir tarih dersi almak",
+            "en": "Take a history lesson with Ben Affleck"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BenAffleck"
+        },
+        "option2": {
+          "text": {
+            "tr": "Matt Damon ile bir bilim dersi almak",
+            "en": "Take a science lesson with Matt Damon"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MattDamon"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "42f2991f-3441-45b2-ae7b-e25fc95adcea",
+        "option1": {
+          "text": {
+            "tr": "P!nk ile bir sirk performansı düzenlemek",
+            "en": "Organize a circus performance with P!nk"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Pink"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kelly Clarkson ile bir yetenek şovuna ev sahipliği yapmak",
+            "en": "Host a talent show with Kelly Clarkson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KellyClarkson"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "0bdc2d42-2a54-47cf-ae0d-2c64ec672d66",
+        "option1": {
+          "text": {
+            "tr": "Mark Wahlberg ile bir boks maçı antrenmanı yapmak",
+            "en": "Train for a boxing match with Mark Wahlberg"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MarkWahlberg"
+        },
+        "option2": {
+          "text": {
+            "tr": "John Cena ile bir güreş maçı provası yapmak",
+            "en": "Rehearse a wrestling match with John Cena"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JohnCena"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "4809d23c-20c7-4eab-80fc-a8a793937743",
+        "option1": {
+          "text": {
+            "tr": "Lizzo ile bir pozitiflik kampanyası başlatmak",
+            "en": "Launch a positivity campaign with Lizzo"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Lizzo"
+        },
+        "option2": {
+          "text": {
+            "tr": "Megan Thee Stallion ile bir özgüven atölyesi düzenlemek",
+            "en": "Organize a confidence workshop with Megan Thee Stallion"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MeganTheeStallion"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "860d4b1d-2371-451a-ab5f-b36d3000aa99",
+        "option1": {
+          "text": {
+            "tr": "Christian Bale ile bir tarihi kostüm partisi düzenlemek",
+            "en": "Host a historical costume party with Christian Bale"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChristianBale"
+        },
+        "option2": {
+          "text": {
+            "tr": "Joaquin Phoenix ile bir psikolojik bulmaca oyunu tasarlamak",
+            "en": "Design a psychological puzzle game with Joaquin Phoenix"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JoaquinPhoenix"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "9d2e202e-62cf-4684-8da3-e5261a14d64e",
+        "option1": {
+          "text": {
+            "tr": "Khloe Kardashian ile bir fitness uygulaması geliştirmek",
+            "en": "Develop a fitness app with Khloe Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KhloeKardashian"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kourtney Kardashian ile bir sağlıklı yaşam blogu başlatmak",
+            "en": "Start a wellness blog with Kourtney Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KourtneyKardashian"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "198460a5-0ae9-4721-b3e7-d8e445db0b18",
+        "option1": {
+          "text": {
+            "tr": "Ryan Seacrest ile bir ödül törenine ev sahipliği yapmak",
+            "en": "Host an awards ceremony with Ryan Seacrest"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RyanSeacrest"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jimmy Fallon ile bir gece şovunda skeç yapmak",
+            "en": "Perform a sketch on a late-night show with Jimmy Fallon"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JimmyFallon"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "e207f27f-92b1-4fe8-adcf-561c6814e592",
+        "option1": {
+          "text": {
+            "tr": "Mila Kunis ile bir ev yenileme projesine katılmak",
+            "en": "Join a home renovation project with Mila Kunis"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MilaKunis"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kristen Wiig ile bir doğaçlama komedi atölyesine katılmak",
+            "en": "Attend an improv comedy workshop with Kristen Wiig"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KristenWiig"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "4805ef78-487e-4345-a79b-e52743b55796",
+        "option1": {
+          "text": {
+            "tr": "Pharrell Williams ile bir çevre dostu moda hattı tasarlamak",
+            "en": "Design an eco-friendly fashion line with Pharrell Williams"
+          },
+          "image": "https://via.placeholder.com/600x400?text=PharrellWilliams"
+        },
+        "option2": {
+          "text": {
+            "tr": "Timbaland ile bir müzik prodüksiyon stüdyosu kurmak",
+            "en": "Set up a music production studio with Timbaland"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Timbaland"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "b08d60ae-c158-44f3-9a97-94241f1db2f6",
+        "option1": {
+          "text": {
+            "tr": "Anne Hathaway ile bir bale gösterisi izlemek",
+            "en": "Watch a ballet performance with Anne Hathaway"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AnneHathaway"
+        },
+        "option2": {
+          "text": {
+            "tr": "Rachel McAdams ile bir tiyatro oyununa gitmek",
+            "en": "Attend a theater play with Rachel McAdams"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RachelMcAdams"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "22b24feb-12db-41aa-abfb-d5ad770b3819",
+        "option1": {
+          "text": {
+            "tr": "50 Cent ile bir girişimcilik seminerine katılmak",
+            "en": "Attend an entrepreneurship seminar with 50 Cent"
+          },
+          "image": "https://via.placeholder.com/600x400?text=50Cent"
+        },
+        "option2": {
+          "text": {
+            "tr": "Dr. Dre ile bir müzik ekipmanı markası başlatmak",
+            "en": "Start a music equipment brand with Dr. Dre"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DrDre"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "a9c31dfd-e1a9-45f0-bb99-e0dc90c9fd2a",
+        "option1": {
+          "text": {
+            "tr": "Emma Watson ile bir kitap fuarında gönüllü olmak",
+            "en": "Volunteer at a book fair with Emma Watson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EmmaWatson"
+        },
+        "option2": {
+          "text": {
+            "tr": "Daniel Radcliffe ile bir sihirbazlık gösterisi düzenlemek",
+            "en": "Organize a magic show with Daniel Radcliffe"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DanielRadcliffe"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "30bf797d-15c9-4aca-bb1a-83fdf62b79aa",
+        "option1": {
+          "text": {
+            "tr": "Victoria Beckham ile bir moda dergisi kapağı tasarlamak",
+            "en": "Design a fashion magazine cover with Victoria Beckham"
+          },
+          "image": "https://via.placeholder.com/600x400?text=VictoriaBeckham"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kourtney Kardashian ile bir sağlıklı yaşam dergisi kapağı tasarlamak",
+            "en": "Design a wellness magazine cover with Kourtney Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KourtneyKardashian"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "8f24fb5a-c2fb-4d53-9f4f-0cd612424718",
+        "option1": {
+          "text": {
+            "tr": "James Corden ile bir araba karoke şovuna katılmak",
+            "en": "Join a carpool karaoke show with James Corden"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JamesCorden"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jimmy Kimmel ile bir sokak röportajı yapmak",
+            "en": "Conduct a street interview with Jimmy Kimmel"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JimmyKimmel"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "c30cb6eb-fa1c-4cb3-927b-3b0c1439c088",
+        "option1": {
+          "text": {
+            "tr": "Chris Pine ile bir uzay temalı VR oyunu tasarlamak",
+            "en": "Design a space-themed VR game with Chris Pine"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChrisPine"
+        },
+        "option2": {
+          "text": {
+            "tr": "Harrison Ford ile bir arkeoloji sergisi düzenlemek",
+            "en": "Curate an archaeology exhibit with Harrison Ford"
+          },
+          "image": "https://via.placeholder.com/600x400?text=HarrisonFord"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d54ac3d3-6dcb-489b-aa85-f2f691d08333",
+        "option1": {
+          "text": {
+            "tr": "Camila Cabello ile bir Latin dansı yarışmasına katılmak",
+            "en": "Compete in a Latin dance competition with Camila Cabello"
+          },
+          "image": "https://via.placeholder.com/600x400?text=CamilaCabello"
+        },
+        "option2": {
+          "text": {
+            "tr": "Demi Lovato ile bir şarkı sözü yazma kampına katılmak",
+            "en": "Join a songwriting camp with Demi Lovato"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DemiLovato"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d65991c2-395e-4208-9ebf-753aa865d6ee",
+        "option1": {
+          "text": {
+            "tr": "Will Ferrell ile bir palyaço kostümüyle şehir turu yapmak",
+            "en": "Tour the city in a clown costume with Will Ferrell"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WillFerrell"
+        },
+        "option2": {
+          "text": {
+            "tr": "Steve Carell ile bir ofis temalı parti düzenlemek",
+            "en": "Host an office-themed party with Steve Carell"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SteveCarell"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "374ac5bf-05c3-4e8a-8172-bc69cb115c1b",
+        "option1": {
+          "text": {
+            "tr": "Rita Ora ile bir sokak sanatı projesine katılmak",
+            "en": "Join a street art project with Rita Ora"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RitaOra"
+        },
+        "option2": {
+          "text": {
+            "tr": "Bebe Rexha ile bir müzik klibi için konsept tasarlamak",
+            "en": "Design a concept for a music video with Bebe Rexha"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BebeRexha"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "5c545242-0087-41cb-8670-db7203dab652",
+        "option1": {
+          "text": {
+            "tr": "Idris Elba ile bir dedektif romanı yazmak",
+            "en": "Write a detective novel with Idris Elba"
+          },
+          "image": "https://via.placeholder.com/600x400?text=IdrisElba"
+        },
+        "option2": {
+          "text": {
+            "tr": "Denzel Washington ile bir suç belgeseli çekmek",
+            "en": "Film a crime documentary with Denzel Washington"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DenzelWashington"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "a6cf8b12-5455-487b-b13b-a9b60b02779a",
+        "option1": {
+          "text": {
+            "tr": "Chris Hemsworth ile bir sörf yarışmasına katılmak",
+            "en": "Compete in a surfing competition with Chris Hemsworth"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChrisHemsworth"
+        },
+        "option2": {
+          "text": {
+            "tr": "Ryan Reynolds ile bir stand-up komedi yazma kampına katılmak",
+            "en": "Join a stand-up comedy writing camp with Ryan Reynolds"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RyanReynolds"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "f4f4e6f1-3fcc-4134-a83b-8851459f8b0f",
+        "option1": {
+          "text": {
+            "tr": "Taylor Swift ile bir hayran sürpriz videosu çekmek",
+            "en": "Film a fan surprise video with Taylor Swift"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TaylorSwift"
+        },
+        "option2": {
+          "text": {
+            "tr": "Billie Eilish ile bir hayran sanatı sergisi düzenlemek",
+            "en": "Organize a fan art exhibition with Billie Eilish"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BillieEilish"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "4f846fca-0b39-4118-87e3-ef625b9ef67c",
+        "option1": {
+          "text": {
+            "tr": "Meryl Streep ile bir şiir okuma gecesine katılmak",
+            "en": "Join a poetry reading night with Meryl Streep"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MerylStreep"
+        },
+        "option2": {
+          "text": {
+            "tr": "Denzel Washington ile bir hikaye anlatımı atölyesine katılmak",
+            "en": "Attend a storytelling workshop with Denzel Washington"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DenzelWashington"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "cac433f0-d3f3-4103-b01f-66ad0bfd65c8",
+        "option1": {
+          "text": {
+            "tr": "Elon Musk ile bir roket lansmanına tanıklık etmek",
+            "en": "Witness a rocket launch with Elon Musk"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ElonMusk"
+        },
+        "option2": {
+          "text": {
+            "tr": "Mark Zuckerberg ile bir VR dünyasında gezmek",
+            "en": "Explore a VR world with Mark Zuckerberg"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MarkZuckerberg"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "b72873df-39c0-4ea1-b76c-f21374f10126",
+        "option1": {
+          "text": {
+            "tr": "Oprah Winfrey ile bir meditasyon kampına katılmak",
+            "en": "Join a meditation retreat with Oprah Winfrey"
+          },
+          "image": "https://via.placeholder.com/600x400?text=OprahWinfrey"
+        },
+        "option2": {
+          "text": {
+            "tr": "Ellen DeGeneres ile bir hayvan barınağında gönüllü olmak",
+            "en": "Volunteer at an animal shelter with Ellen DeGeneres"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EllenDeGeneres"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "f9bc04ac-c2e8-4887-914f-15fc67db8e73",
+        "option1": {
+          "text": {
+            "tr": "Johnny Depp ile bir korsan temalı parti düzenlemek",
+            "en": "Host a pirate-themed party with Johnny Depp"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JohnnyDepp"
+        },
+        "option2": {
+          "text": {
+            "tr": "Keira Knightley ile bir tarihi balo düzenlemek",
+            "en": "Organize a historical ball with Keira Knightley"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KeiraKnightley"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "8bc235c9-93e6-4aac-9fc6-3ec69ad9e96e",
+        "option1": {
+          "text": {
+            "tr": "Lady Gaga ile bir performans sanatı sergisi oluşturmak",
+            "en": "Create a performance art exhibit with Lady Gaga"
+          },
+          "image": "https://via.placeholder.com/600x400?text=LadyGaga"
+        },
+        "option2": {
+          "text": {
+            "tr": "Katy Perry ile bir pop art galerisi açmak",
+            "en": "Open a pop art gallery with Katy Perry"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KatyPerry"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "6175c3e2-3b0c-43b1-bda7-00a476d0e413",
+        "option1": {
+          "text": {
+            "tr": "Robert Downey Jr. ile bir bilimkurgu oyuncak seti tasarlamak",
+            "en": "Design a sci-fi toy set with Robert Downey Jr."
+          },
+          "image": "https://via.placeholder.com/600x400?text=RobertDowneyJr"
+        },
+        "option2": {
+          "text": {
+            "tr": "Chris Evans ile bir süper kahraman temalı oyuncak mağazası açmak",
+            "en": "Open a superhero-themed toy store with Chris Evans"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChrisEvans"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "7b6f8257-631a-4b5d-8cb3-44419b13ce15",
+        "option1": {
+          "text": {
+            "tr": "Ariana Grande ile bir makyaj yarışmasına katılmak",
+            "en": "Compete in a makeup contest with Ariana Grande"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ArianaGrande"
+        },
+        "option2": {
+          "text": {
+            "tr": "Dua Lipa ile bir dans klibi için koreografi oluşturmak",
+            "en": "Create choreography for a dance video with Dua Lipa"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DuaLipa"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "29651fd8-295f-4e9d-b077-0c30eb5387eb",
+        "option1": {
+          "text": {
+            "tr": "Will Smith ile bir bilimkurgu temalı eğlence parkı açmak",
+            "en": "Open a sci-fi themed amusement park with Will Smith"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WillSmith"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kevin Hart ile bir komedi kulübü işletmek",
+            "en": "Run a comedy club with Kevin Hart"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KevinHart"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "b1ae0125-7826-4e79-b26d-bd67f14627d0",
+        "option1": {
+          "text": {
+            "tr": "Angelina Jolie ile bir arkeolojik kazıya katılmak",
+            "en": "Join an archaeological dig with Angelina Jolie"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AngelinaJolie"
+        },
+        "option2": {
+          "text": {
+            "tr": "George Clooney ile bir tarihi belgesel çekmek",
+            "en": "Film a historical documentary with George Clooney"
+          },
+          "image": "https://via.placeholder.com/600x400?text=GeorgeClooney"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "39d5fbbe-ef4f-43f8-b2cb-83337c4d392a",
+        "option1": {
+          "text": {
+            "tr": "Drake ile bir basketbol sahası tasarlamak",
+            "en": "Design a basketball court with Drake"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Drake"
+        },
+        "option2": {
+          "text": {
+            "tr": "Post Malone ile bir müzik temalı kafe açmak",
+            "en": "Open a music-themed café with Post Malone"
+          },
+          "image": "https://via.placeholder.com/600x400?text=PostMalone"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "2873c74a-f416-4459-8b1e-ea9973a09a91",
+        "option1": {
+          "text": {
+            "tr": "Jennifer Lawrence ile bir okçuluk yarışmasına katılmak",
+            "en": "Compete in an archery contest with Jennifer Lawrence"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JenniferLawrence"
+        },
+        "option2": {
+          "text": {
+            "tr": "Emma Stone ile bir tiyatro atölyesine katılmak",
+            "en": "Attend a theater workshop with Emma Stone"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EmmaStone"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "a42b8f06-89c2-4daa-b0ce-eda2e07248cc",
+        "option1": {
+          "text": {
+            "tr": "Justin Bieber ile bir sokak sanatı festivaline katılmak",
+            "en": "Join a street art festival with Justin Bieber"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JustinBieber"
+        },
+        "option2": {
+          "text": {
+            "tr": "Shawn Mendes ile bir hayran buluşma etkinliği düzenlemek",
+            "en": "Organize a fan meet-up event with Shawn Mendes"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ShawnMendes"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "e4c0440d-513c-4986-9434-c2b28c93e225",
+        "option1": {
+          "text": {
+            "tr": "Scarlett Johansson ile bir bilimkurgu kitabı yazmak",
+            "en": "Write a sci-fi book with Scarlett Johansson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ScarlettJohansson"
+        },
+        "option2": {
+          "text": {
+            "tr": "Natalie Portman ile bir felsefe tartışmasına katılmak",
+            "en": "Join a philosophy discussion with Natalie Portman"
+          },
+          "image": "https://via.placeholder.com/600x400?text=NataliePortman"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "aaf96eac-ebb7-4142-a4c8-c0f6e37cf2d7",
+        "option1": {
+          "text": {
+            "tr": "Ed Sheeran ile bir akustik müzik kampına katılmak",
+            "en": "Join an acoustic music camp with Ed Sheeran"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EdSheeran"
+        },
+        "option2": {
+          "text": {
+            "tr": "Bruno Mars ile bir funk müzik festivali düzenlemek",
+            "en": "Organize a funk music festival with Bruno Mars"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BrunoMars"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "4c63bf91-a763-4cce-9e8a-c4e9a8fb3df8",
+        "option1": {
+          "text": {
+            "tr": "Tom Cruise ile bir paraşütle atlama macerasına katılmak",
+            "en": "Go skydiving with Tom Cruise"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TomCruise"
+        },
+        "option2": {
+          "text": {
+            "tr": "Vin Diesel ile bir drag yarışı düzenlemek",
+            "en": "Organize a drag race with Vin Diesel"
+          },
+          "image": "https://via.placeholder.com/600x400?text=VinDiesel"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "025f78c0-8047-4dbf-bf0e-18ed2cd5193d",
+        "option1": {
+          "text": {
+            "tr": "Selena Gomez ile bir yemek tarifi kitabı yazmak",
+            "en": "Write a cookbook with Selena Gomez"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SelenaGomez"
+        },
+        "option2": {
+          "text": {
+            "tr": "Zendaya ile bir moda defilesi düzenlemek",
+            "en": "Organize a fashion show with Zendaya"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Zendaya"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "377a9e88-7672-4e10-9585-e55f42f6fc31",
+        "option1": {
+          "text": {
+            "tr": "Ryan Gosling ile bir caz kulübünde sahne almak",
+            "en": "Perform at a jazz club with Ryan Gosling"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RyanGosling"
+        },
+        "option2": {
+          "text": {
+            "tr": "Channing Tatum ile bir dans kulübünde dans etmek",
+            "en": "Dance at a dance club with Channing Tatum"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChanningTatum"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "56c0dab5-2468-4d6e-9372-30b82745415e",
+        "option1": {
+          "text": {
+            "tr": "Cardi B ile bir müzik ödül törenine katılmak",
+            "en": "Attend a music awards ceremony with Cardi B"
+          },
+          "image": "https://via.placeholder.com/600x400?text=CardiB"
+        },
+        "option2": {
+          "text": {
+            "tr": "Nicki Minaj ile bir rap müzik kampına katılmak",
+            "en": "Join a rap music camp with Nicki Minaj"
+          },
+          "image": "https://via.placeholder.com/600x400?text=NickiMinaj"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "dd921806-8a03-4ccc-b704-cafb2bf14d4d",
+        "option1": {
+          "text": {
+            "tr": "Hugh Jackman ile bir müzikal tiyatro kampına katılmak",
+            "en": "Join a musical theater camp with Hugh Jackman"
+          },
+          "image": "https://via.placeholder.com/600x400?text=HughJackman"
+        },
+        "option2": {
+          "text": {
+            "tr": "Zac Efron ile bir dans yarışması düzenlemek",
+            "en": "Organize a dance competition with Zac Efron"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ZacEfron"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "63127954-eeec-4d29-a298-d0b1b0c425e0",
+        "option1": {
+          "text": {
+            "tr": "Miley Cyrus ile bir yoga kampına katılmak",
+            "en": "Join a yoga retreat with Miley Cyrus"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MileyCyrus"
+        },
+        "option2": {
+          "text": {
+            "tr": "Shakira ile bir salsa dans kampına katılmak",
+            "en": "Join a salsa dance camp with Shakira"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Shakira"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "ae1aefb9-816b-459e-95f5-7b49a77f45fc",
+        "option1": {
+          "text": {
+            "tr": "Keanu Reeves ile bir felsefe kitabı tartışmak",
+            "en": "Discuss a philosophy book with Keanu Reeves"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KeanuReeves"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jason Statham ile bir aksiyon filmi sahnesi tasarlamak",
+            "en": "Design an action movie scene with Jason Statham"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JasonStatham"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "693062a2-eafa-45b7-abc5-91fa8985f10a",
+        "option1": {
+          "text": {
+            "tr": "Kylie Jenner ile bir güzellik salonu işletmek",
+            "en": "Run a beauty salon with Kylie Jenner"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KylieJenner"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kim Kardashian ile bir moda butiği açmak",
+            "en": "Open a fashion boutique with Kim Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KimKardashian"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "bc682c2a-6f56-40e4-830e-4c9feb6af5e6",
+        "option1": {
+          "text": {
+            "tr": "Chris Pratt ile bir dinozor temalı park gezmek",
+            "en": "Tour a dinosaur-themed park with Chris Pratt"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChrisPratt"
+        },
+        "option2": {
+          "text": {
+            "tr": "Adam Sandler ile bir golf turnuvasına katılmak",
+            "en": "Join a golf tournament with Adam Sandler"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AdamSandler"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "caaaab71-e5d7-4645-a992-b7b8d48488e6",
+        "option1": {
+          "text": {
+            "tr": "Eminem ile bir rap müzik tarihi sergisi düzenlemek",
+            "en": "Curate a rap music history exhibit with Eminem"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Eminem"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jay-Z ile bir müzik girişimcilik semineri düzenlemek",
+            "en": "Organize a music entrepreneurship seminar with Jay-Z"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JayZ"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "ec4e459f-6466-4e8e-a31c-97bf3c21917c",
+        "option1": {
+          "text": {
+            "tr": "Margot Robbie ile bir 1920'ler temalı parti düzenlemek",
+            "en": "Host a 1920s-themed party with Margot Robbie"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MargotRobbie"
+        },
+        "option2": {
+          "text": {
+            "tr": "Charlize Theron ile bir casus temalı parti düzenlemek",
+            "en": "Host a spy-themed party with Charlize Theron"
+          },
+          "image": "https://via.placeholder.com/600x400?text=CharlizeTheron"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "8c358415-345e-4f78-b3fd-e259beb676a2",
+        "option1": {
+          "text": {
+            "tr": "The Weeknd ile bir gece yarısı konseri düzenlemek",
+            "en": "Organize a midnight concert with The Weeknd"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TheWeeknd"
+        },
+        "option2": {
+          "text": {
+            "tr": "Justin Timberlake ile bir dans partisi düzenlemek",
+            "en": "Host a dance party with Justin Timberlake"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JustinTimberlake"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "b624ae33-3632-4850-8394-1e3d49824903",
+        "option1": {
+          "text": {
+            "tr": "Sandra Bullock ile bir gizem romanı yazmak",
+            "en": "Write a mystery novel with Sandra Bullock"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SandraBullock"
+        },
+        "option2": {
+          "text": {
+            "tr": "Reese Witherspoon ile bir romantik komedi senaryosu yazmak",
+            "en": "Write a rom-com script with Reese Witherspoon"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ReeseWitherspoon"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "07e69eed-7427-4d09-b629-ae09594aebb3",
+        "option1": {
+          "text": {
+            "tr": "Snoop Dogg ile bir esrar temalı kafe açmak",
+            "en": "Open a cannabis-themed café with Snoop Dogg"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SnoopDogg"
+        },
+        "option2": {
+          "text": {
+            "tr": "Lil Wayne ile bir hip-hop temalı bar açmak",
+            "en": "Open a hip-hop themed bar with Lil Wayne"
+          },
+          "image": "https://via.placeholder.com/600x400?text=LilWayne"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "900c08a1-abac-4e54-b1e6-00a692a0ebc6",
+        "option1": {
+          "text": {
+            "tr": "Gal Gadot ile bir kılıç dövüşü dersi almak",
+            "en": "Take a sword fighting lesson with Gal Gadot"
+          },
+          "image": "https://via.placeholder.com/600x400?text=GalGadot"
+        },
+        "option2": {
+          "text": {
+            "tr": "Brie Larson ile bir boks dersi almak",
+            "en": "Take a boxing lesson with Brie Larson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BrieLarson"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "2a689022-25d9-4fbb-a20b-fba31e389fd7",
+        "option1": {
+          "text": {
+            "tr": "Alicia Keys ile bir müzik terapi atölyesine katılmak",
+            "en": "Join a music therapy workshop with Alicia Keys"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AliciaKeys"
+        },
+        "option2": {
+          "text": {
+            "tr": "John Legend ile bir şarkı yazma atölyesine katılmak",
+            "en": "Join a songwriting workshop with John Legend"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JohnLegend"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "e06b4d36-5832-46eb-b1ab-8b9a46e3d280",
+        "option1": {
+          "text": {
+            "tr": "Ben Affleck ile bir süper kahraman filmi senaryosu yazmak",
+            "en": "Write a superhero movie script with Ben Affleck"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BenAffleck"
+        },
+        "option2": {
+          "text": {
+            "tr": "Matt Damon ile bir savaş filmi senaryosu yazmak",
+            "en": "Write a war movie script with Matt Damon"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MattDamon"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "8e0889d1-e69f-4770-b675-acb1ff7404a7",
+        "option1": {
+          "text": {
+            "tr": "P!nk ile bir akrobasi şovuna katılmak",
+            "en": "Join an acrobatics show with P!nk"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Pink"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kelly Clarkson ile bir şarkı yarışmasına katılmak",
+            "en": "Compete in a singing competition with Kelly Clarkson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KellyClarkson"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "5574fa5f-fdae-44c8-90e4-f3c547aa1b29",
+        "option1": {
+          "text": {
+            "tr": "Mark Wahlberg ile bir spor salonu açmak",
+            "en": "Open a gym with Mark Wahlberg"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MarkWahlberg"
+        },
+        "option2": {
+          "text": {
+            "tr": "John Cena ile bir fitness kampı düzenlemek",
+            "en": "Organize a fitness camp with John Cena"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JohnCena"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "1d63ce01-d26d-4bb5-a319-a0edc9197853",
+        "option1": {
+          "text": {
+            "tr": "Lizzo ile bir vücut pozitifliği kampanyası başlatmak",
+            "en": "Launch a body positivity campaign with Lizzo"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Lizzo"
+        },
+        "option2": {
+          "text": {
+            "tr": "Megan Thee Stallion ile bir dans fitness programı tasarlamak",
+            "en": "Design a dance fitness program with Megan Thee Stallion"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MeganTheeStallion"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "78f440de-9c4e-466d-9951-888663a3e651",
+        "option1": {
+          "text": {
+            "tr": "Christian Bale ile bir tarihi reenactment etkinliğine katılmak",
+            "en": "Join a historical reenactment event with Christian Bale"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChristianBale"
+        },
+        "option2": {
+          "text": {
+            "tr": "Joaquin Phoenix ile bir psikolojik drama senaryosu yazmak",
+            "en": "Write a psychological drama script with Joaquin Phoenix"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JoaquinPhoenix"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "41289eab-fd57-4e65-8867-da147aba3082",
+        "option1": {
+          "text": {
+            "tr": "Khloe Kardashian ile bir diyet planı geliştirmek",
+            "en": "Develop a diet plan with Khloe Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KhloeKardashian"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kourtney Kardashian ile bir organik ürün markası başlatmak",
+            "en": "Start an organic product brand with Kourtney Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KourtneyKardashian"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "7ffb2ece-7591-46e9-a500-ff6558d57ff7",
+        "option1": {
+          "text": {
+            "tr": "Ryan Seacrest ile bir radyo şovu sunmak",
+            "en": "Host a radio show with Ryan Seacrest"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RyanSeacrest"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jimmy Fallon ile bir komedi skeç şovu sunmak",
+            "en": "Host a comedy sketch show with Jimmy Fallon"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JimmyFallon"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d57cd2da-9fa2-4c6a-8f97-9933d97a0a14",
+        "option1": {
+          "text": {
+            "tr": "Mila Kunis ile bir evcil hayvan barınağında gönüllü olmak",
+            "en": "Volunteer at a pet shelter with Mila Kunis"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MilaKunis"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kristen Wiig ile bir komedi festivalinde sahne almak",
+            "en": "Perform at a comedy festival with Kristen Wiig"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KristenWiig"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "47b83287-172b-4864-9e4b-f952bebd9837",
+        "option1": {
+          "text": {
+            "tr": "Pharrell Williams ile bir sürdürülebilirlik projesi yürütmek",
+            "en": "Run a sustainability project with Pharrell Williams"
+          },
+          "image": "https://via.placeholder.com/600x400?text=PharrellWilliams"
+        },
+        "option2": {
+          "text": {
+            "tr": "Timbaland ile bir müzik teknolojisi girişimi başlatmak",
+            "en": "Start a music tech startup with Timbaland"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Timbaland"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "89112f5d-1c80-431e-8d9a-992ac8e0bcd9",
+        "option1": {
+          "text": {
+            "tr": "Anne Hathaway ile bir opera izlemek",
+            "en": "Watch an opera with Anne Hathaway"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AnneHathaway"
+        },
+        "option2": {
+          "text": {
+            "tr": "Rachel McAdams ile bir romantik komedi gecesi düzenlemek",
+            "en": "Host a rom-com movie night with Rachel McAdams"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RachelMcAdams"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d56d66cf-4772-4661-b881-6e64cee787fc",
+        "option1": {
+          "text": {
+            "tr": "50 Cent ile bir sokak basketbolu turnuvasına katılmak",
+            "en": "Join a street basketball tournament with 50 Cent"
+          },
+          "image": "https://via.placeholder.com/600x400?text=50Cent"
+        },
+        "option2": {
+          "text": {
+            "tr": "Dr. Dre ile bir müzik stüdyosu tasarlamak",
+            "en": "Design a music studio with Dr. Dre"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DrDre"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "0f9593a0-a39b-4a7f-84c4-bc34de0fe30b",
+        "option1": {
+          "text": {
+            "tr": "Emma Watson ile bir çevre koruma kampanyası yürütmek",
+            "en": "Run an environmental campaign with Emma Watson"
+          },
+          "image": "https://via.placeholder.com/600x400?text=EmmaWatson"
+        },
+        "option2": {
+          "text": {
+            "tr": "Daniel Radcliffe ile bir sihirbazlık atölyesine katılmak",
+            "en": "Join a magic workshop with Daniel Radcliffe"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DanielRadcliffe"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "6f1613ba-6a12-4873-97f5-7e6c1ab6f94e",
+        "option1": {
+          "text": {
+            "tr": "Victoria Beckham ile bir moda atölyesine katılmak",
+            "en": "Join a fashion workshop with Victoria Beckham"
+          },
+          "image": "https://via.placeholder.com/600x400?text=VictoriaBeckham"
+        },
+        "option2": {
+          "text": {
+            "tr": "Kourtney Kardashian ile bir sağlıklı yaşam seminerine katılmak",
+            "en": "Join a wellness seminar with Kourtney Kardashian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=KourtneyKardashian"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "52356776-2cd6-4457-a4a3-afa501fb6860",
+        "option1": {
+          "text": {
+            "tr": "James Corden ile bir komedi tiyatrosunda sahne almak",
+            "en": "Perform at a comedy theater with James Corden"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JamesCorden"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jimmy Kimmel ile bir komedi şovu yazmak",
+            "en": "Write a comedy show with Jimmy Kimmel"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JimmyKimmel"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "f12aa20f-0dce-47bb-a126-6640e9e59dfa",
+        "option1": {
+          "text": {
+            "tr": "Chris Pine ile bir uzay müzesi gezmek",
+            "en": "Visit a space museum with Chris Pine"
+          },
+          "image": "https://via.placeholder.com/600x400?text=ChrisPine"
+        },
+        "option2": {
+          "text": {
+            "tr": "Harrison Ford ile bir macera filmi setini gezmek",
+            "en": "Tour an adventure movie set with Harrison Ford"
+          },
+          "image": "https://via.placeholder.com/600x400?text=HarrisonFord"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "6fbbeb96-0af7-4388-9629-8b798fe68262",
+        "option1": {
+          "text": {
+            "tr": "Camila Cabello ile bir Latin müzik festivali düzenlemek",
+            "en": "Organize a Latin music festival with Camila Cabello"
+          },
+          "image": "https://via.placeholder.com/600x400?text=CamilaCabello"
+        },
+        "option2": {
+          "text": {
+            "tr": "Demi Lovato ile bir müzik terapi kampı düzenlemek",
+            "en": "Organize a music therapy camp with Demi Lovato"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DemiLovato"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "8a656ce2-8358-40ff-942a-dcb91385f76a",
+        "option1": {
+          "text": {
+            "tr": "Will Ferrell ile bir komedi filmi festivaline katılmak",
+            "en": "Join a comedy film festival with Will Ferrell"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WillFerrell"
+        },
+        "option2": {
+          "text": {
+            "tr": "Steve Carell ile bir doğaçlama komedi şovu düzenlemek",
+            "en": "Organize an improv comedy show with Steve Carell"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SteveCarell"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "831a470e-6cdd-4076-ba82-c1823cd3af2c",
+        "option1": {
+          "text": {
+            "tr": "Rita Ora ile bir müzik videosu için kostüm tasarlamak",
+            "en": "Design costumes for a music video with Rita Ora"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RitaOra"
+        },
+        "option2": {
+          "text": {
+            "tr": "Bebe Rexha ile bir müzik videosu için sahne tasarlamak",
+            "en": "Design a set for a music video with Bebe Rexha"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BebeRexha"
+        },
+        "votes1": 0,
+        "votes2": 0
+      }
+    ],
+    "vehicles": [
+      {
+        "id": "c18f10d0-42ee-462e-a3b6-c2cd859dcb52",
+        "option1": {
+          "text": {
+            "tr": "Spor araba sahibi olmak",
+            "en": "Own a sports car"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Sports+Car"
+        },
+        "option2": {
+          "text": {
+            "tr": "Özel jet sahibi olmak",
+            "en": "Own a private jet"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Private+Jet"
+        },
+        "votes1": 150,
+        "votes2": 50
+      }
+    ],
+    "property": [
+      {
+        "id": "18999ca2-3858-42c5-a88b-1edc9541be17",
+        "option1": {
+          "text": {
+            "tr": "Malikanede yaşamak",
+            "en": "Live in a mansion"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Mansion"
+        },
+        "option2": {
+          "text": {
+            "tr": "Sahil evinde yaşamak",
+            "en": "Live in a beach house"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Beach+House"
+        },
+        "votes1": 90,
+        "votes2": 110
+      }
+    ],
+    "superpowers": [
+      {
+        "id": "7f4b5940-9458-44cf-9999-32d6264240c8",
+        "option1": {
+          "text": {
+            "tr": "Uçmak",
+            "en": "Fly"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Fly"
+        },
+        "option2": {
+          "text": {
+            "tr": "Görünmez olmak",
+            "en": "Be invisible"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Invisible"
+        },
+        "votes1": 130,
+        "votes2": 70
+      }
+    ],
+    "extreme": [
+      {
+        "id": "f448f555-96bd-40d8-a75d-ef739187b357",
+        "option1": {
+          "text": {
+            "tr": "Paraşütle atlamak",
+            "en": "Skydive"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Skydive"
+        },
+        "option2": {
+          "text": {
+            "tr": "Bungee jumping yapmak",
+            "en": "Bungee jump"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Bungee+Jump"
+        },
+        "votes1": 80,
+        "votes2": 120
+      }
+    ],
+    "scifi": [
+      {
+        "id": "17202557-cf1c-479b-bc72-bf56e77f3706",
+        "option1": {
+          "text": {
+            "tr": "Mars'a seyahat etmek",
+            "en": "Travel to Mars"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Mars"
+        },
+        "option2": {
+          "text": {
+            "tr": "Uzaylıyla tanışmak",
+            "en": "Meet an alien"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Alien"
+        },
+        "votes1": 100,
+        "votes2": 100
+      }
+    ],
+    "deal_with_devil": [
+      {
+        "id": "daa6a2b9-5c2b-4cf2-aecb-a4c5046304de",
+        "option1": {
+          "text": {
+            "tr": "Şeytanla anlaşarak sonsuz bilgi elde etmek",
+            "en": "Gain infinite knowledge through a deal with the Devil"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Knowledge"
+        },
+        "option2": {
+          "text": {
+            "tr": "Şeytanla anlaşarak sonsuz servet elde etmek",
+            "en": "Gain infinite wealth through a deal with the Devil"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Wealth"
+        },
+        "votes1": 60,
+        "votes2": 140
+      },
+      {
+        "id": "ba13968c-ccdf-401c-acc1-3998d2355e86",
+        "option1": {
+          "text": {
+            "tr": "Şeytanla anlaşarak ölümsüzlük kazanmak",
+            "en": "Gain immortality through a deal with the Devil"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Immortality"
+        },
+        "option2": {
+          "text": {
+            "tr": "Şeytanla anlaşarak mutlak güç elde etmek",
+            "en": "Gain absolute power through a deal with the Devil"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Power"
+        },
+        "votes1": 90,
+        "votes2": 110
+      }
+    ],
+    "movies": [
+      {
+        "id": "1545b78b-ba62-45ad-a7ac-c739057dc7c6",
+        "option1": {
+          "text": {
+            "tr": "Matrix dünyasında kırmızı hapı seçmek ve gerçekliği keşfetmek",
+            "en": "Choose the red pill in The Matrix and discover reality"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Matrix"
+        },
+        "option2": {
+          "text": {
+            "tr": "Inception filminde rüya içinde rüya deneyimi yaşamak",
+            "en": "Experience dreams within dreams in Inception"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Inception"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "077736f1-b448-4981-b1c0-d7a52b7c946b",
+        "option1": {
+          "text": {
+            "tr": "Game of Thrones’da Westeros’un Kralı olmak",
+            "en": "Become the King of Westeros in Game of Thrones"
+          },
+          "image": "https://via.placeholder.com/600x400?text=GameOfThrones"
+        },
+        "option2": {
+          "text": {
+            "tr": "The Crown'da Birleşik Krallık'ın Kraliçesi olmak",
+            "en": "Become the Queen of the United Kingdom in The Crown"
+          },
+          "image": "https://via.placeholder.com/600x400?text=StrangerThings"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "999cd2df-933d-4359-b759-606d7f8f9071",
+        "option1": {
+          "text": {
+            "tr": "Harry Potter gibi Hogwarts’a kabul edilmek ve büyücü olmak",
+            "en": "Be accepted to Hogwarts and become a wizard like Harry Potter"
+          },
+          "image": "https://via.placeholder.com/600x400?text=HarryPotter"
+        },
+        "option2": {
+          "text": {
+            "tr": "The Witcher dünyasında canavar avcısı olmak",
+            "en": "Become a monster hunter in The Witcher universe"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TheWitcher"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "f7aa0304-5fc8-46da-b819-c2c34b6ab94b",
+        "option1": {
+          "text": {
+            "tr": "Joker gibi Gotham’da kaos yaratmak",
+            "en": "Create chaos in Gotham like Joker"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Joker"
+        },
+        "option2": {
+          "text": {
+            "tr": "Batman gibi Gotham’ı korumak",
+            "en": "Protect Gotham like Batman"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Batman"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "5a04bcf5-5755-499a-a28b-47135d568a71",
+        "option1": {
+          "text": {
+            "tr": "Star Wars’da Jedi olmak ve ışın kılıcı kullanmak",
+            "en": "Become a Jedi in Star Wars and wield a lightsaber"
+          },
+          "image": "https://via.placeholder.com/600x400?text=StarWars"
+        },
+        "option2": {
+          "text": {
+            "tr": "Star Trek’de uzay gemisi kaptanı olmak",
+            "en": "Be the captain of a starship in Star Trek"
+          },
+          "image": "https://via.placeholder.com/600x400?text=StarTrek"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "2ea0802d-d322-4eb1-beed-5ebb26e0309e",
+        "option1": {
+          "text": {
+            "tr": "Black Mirror dünyasında teknolojinin kontrolden çıktığı bir gelecekte yaşamak",
+            "en": "Live in a Black Mirror world where technology is out of control"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BlackMirror"
+        },
+        "option2": {
+          "text": {
+            "tr": "Westworld’de yapay zekaların arasında özgürlük mücadelesi vermek",
+            "en": "Fight for freedom among AI in Westworld"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Westworld"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "85461693-6fa9-4365-a164-865f13e787b0",
+        "option1": {
+          "text": {
+            "tr": "Breaking Bad’de Walter White olmak",
+            "en": "Be Walter White in Breaking Bad"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BreakingBad"
+        },
+        "option2": {
+          "text": {
+            "tr": "Better Call Saul’da Saul Goodman olmak",
+            "en": "Be Saul Goodman in Better Call Saul"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BetterCallSaul"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "372dfae2-cf88-43ac-b6fe-8fc9acd33183",
+        "option1": {
+          "text": {
+            "tr": "Friends ekibine katılmak ve Central Perk’te vakit geçirmek",
+            "en": "Join the Friends crew and hang out at Central Perk"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Friends"
+        },
+        "option2": {
+          "text": {
+            "tr": "The Office’de ofiste çalışmak ve şakalar yapmak",
+            "en": "Work and prank in The Office"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TheOffice"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "02110b07-e88c-475d-b048-2c552b70e39c",
+        "option1": {
+          "text": {
+            "tr": "Avatar: The Last Airbender’da elementleri kontrol etmek",
+            "en": "Control elements in Avatar: The Last Airbender"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Avatar"
+        },
+        "option2": {
+          "text": {
+            "tr": "Rick and Morty’de çılgın maceralara atılmak",
+            "en": "Go on crazy adventures in Rick and Morty"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RickAndMorty"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "2b76e236-83ab-43f4-abad-cee597680ef1",
+        "option1": {
+          "text": {
+            "tr": "The Mandalorian olarak galakside ödül avcılığı yapmak",
+            "en": "Be The Mandalorian and bounty hunt across the galaxy"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Mandalorian"
+        },
+        "option2": {
+          "text": {
+            "tr": "Guardians of the Galaxy’de uzay macerasına çıkmak",
+            "en": "Go on space adventures with Guardians of the Galaxy"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Guardians"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "a4d0af04-df74-469a-b0c5-37a96a6a6cb7",
+        "option1": {
+          "text": {
+            "tr": "Sherlock Holmes gibi zeki bir dedektif olmak",
+            "en": "Be a genius detective like Sherlock Holmes"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Sherlock"
+        },
+        "option2": {
+          "text": {
+            "tr": "Loki gibi zamanda yolculuk yapmak",
+            "en": "Travel through time like Loki"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Loki"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "1c192f0c-024d-48ff-8d16-c7fdcd904a48",
+        "option1": {
+          "text": {
+            "tr": "The Witcher’da Yennefer ile büyü yapmak",
+            "en": "Cast magic with Yennefer in The Witcher"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WitcherYennefer"
+        },
+        "option2": {
+          "text": {
+            "tr": "Game of Thrones’da Arya Stark gibi intikam almak",
+            "en": "Take revenge like Arya Stark in Game of Thrones"
+          },
+          "image": "https://via.placeholder.com/600x400?text=AryaStark"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "3cb4d44b-08cc-467c-b878-0936fbc1bce0",
+        "option1": {
+          "text": {
+            "tr": "Breaking Bad’de kimya dersi almak",
+            "en": "Take chemistry lessons in Breaking Bad"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BreakingBad"
+        },
+        "option2": {
+          "text": {
+            "tr": "Stranger Things’de Eleven gibi telekinetik güçlere sahip olmak",
+            "en": "Have telekinetic powers like Eleven in Stranger Things"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Eleven"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "9222c770-835e-4a03-be47-e96c5d6a0a1c",
+        "option1": {
+          "text": {
+            "tr": "Jurassic Park’ta dinozorlarla hayatta kalmak",
+            "en": "Survive with dinosaurs in Jurassic Park"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JurassicPark"
+        },
+        "option2": {
+          "text": {
+            "tr": "Godzilla ile karşı karşıya gelmek",
+            "en": "Face Godzilla in battle"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Godzilla"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "614aa05b-e818-4585-9d7d-792d8f61ee62",
+        "option1": {
+          "text": {
+            "tr": "Pirates of the Caribbean’da korsan olmak",
+            "en": "Be a pirate in Pirates of the Caribbean"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Pirates"
+        },
+        "option2": {
+          "text": {
+            "tr": "The Walking Dead’de zombi kıyametinden kaçmak",
+            "en": "Escape the zombie apocalypse in The Walking Dead"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WalkingDead"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "7159aa21-b5f9-45de-ab2e-68bc74c79088",
+        "option1": {
+          "text": {
+            "tr": "The Simpsons dünyasında yaşamak",
+            "en": "Live in The Simpsons universe"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Simpsons"
+        },
+        "option2": {
+          "text": {
+            "tr": "South Park’ta bir karakter olmak",
+            "en": "Be a character in South Park"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SouthPark"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "2e765367-062c-4469-a488-1c21a9ebaf3e",
+        "option1": {
+          "text": {
+            "tr": "Marvel’da Örümcek Adam olmak",
+            "en": "Be Spider-Man in the Marvel universe"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SpiderMan"
+        },
+        "option2": {
+          "text": {
+            "tr": "DC’de Wonder Woman olmak",
+            "en": "Be Wonder Woman in the DC universe"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WonderWoman"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d46cb0da-63a7-43dc-8d03-79c31653d80b",
+        "option1": {
+          "text": {
+            "tr": "Harry Potter’da Slytherin evi üyesi olmak",
+            "en": "Be a Slytherin in Harry Potter"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Slytherin"
+        },
+        "option2": {
+          "text": {
+            "tr": "Harry Potter’da Gryffindor evi üyesi olmak",
+            "en": "Be a Gryffindor in Harry Potter"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Gryffindor"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "f6a5ada9-ebcf-4c58-98da-2767f7371876",
+        "option1": {
+          "text": {
+            "tr": "Stranger Things'te Upside Down'da hapsolmak",
+            "en": "Being trapped in the Upside Down in Stranger Things"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Demogorgon"
+        },
+        "option2": {
+          "text": {
+            "tr": "Stranger Things'te Hawkins Ulusal Laboratuvar'da hapsolmak",
+            "en": "Being Trapped in Hawkins National Laboratory in Stranger Things"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Hopper"
+        },
+        "votes1": 1,
+        "votes2": 0
+      },
+      {
+        "id": "a1217482-4ae0-4997-9eac-46d7cdc9b2c0",
+        "option1": {
+          "text": {
+            "tr": "Marvel’da Doctor Strange olmak",
+            "en": "Be Doctor Strange in Marvel"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DoctorStrange"
+        },
+        "option2": {
+          "text": {
+            "tr": "Marvel’da Iron Man olmak",
+            "en": "Be Iron Man in Marvel"
+          },
+          "image": "https://via.placeholder.com/600x400?text=IronMan"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "a7236dbb-cfb4-4698-84b7-11353c477940",
+        "option1": {
+          "text": {
+            "tr": "Black Panther olmak ve Wakanda’yı yönetmek",
+            "en": "Be Black Panther and rule Wakanda"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BlackPanther"
+        },
+        "option2": {
+          "text": {
+            "tr": "Thor olmak ve Asgard’ı korumak",
+            "en": "Be Thor and protect Asgard"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Thor"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "efac7e24-557d-48d1-b1ab-a02e7163bb97",
+        "option1": {
+          "text": {
+            "tr": "Friends’de Joey olmak ve pizza yemek",
+            "en": "Be Joey in Friends and eat pizza"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Joey"
+        },
+        "option2": {
+          "text": {
+            "tr": "Friends’de Chandler olmak ve espriler yapmak",
+            "en": "Be Chandler in Friends and crack jokes"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Chandler"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "8e321324-fe40-41a8-8cb3-b1d580b6f5e8",
+        "option1": {
+          "text": {
+            "tr": "Westworld’de robot olmak",
+            "en": "Be a robot in Westworld"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WestworldRobot"
+        },
+        "option2": {
+          "text": {
+            "tr": "Westworld’de insan olarak hayatta kalmak",
+            "en": "Survive as a human in Westworld"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WestworldHuman"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "cde393a5-f04c-45a8-973f-58276b1f6b79",
+        "option1": {
+          "text": {
+            "tr": "Lord of the Rings’de Gandalf olmak",
+            "en": "Be Gandalf in Lord of the Rings"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Gandalf"
+        },
+        "option2": {
+          "text": {
+            "tr": "Lord of the Rings’de Sauron olmak",
+            "en": "Be Sauron in Lord of the Rings"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Aragorn"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "7628bd85-5667-4f47-aa9e-0c935f7629c4",
+        "option1": {
+          "text": {
+            "tr": "Marvel’da Hulk olmak ve öfkeyle güçlenmek",
+            "en": "Be Hulk in Marvel and grow stronger with anger"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Hulk"
+        },
+        "option2": {
+          "text": {
+            "tr": "Marvel’da Captain America olmak ve liderlik yapmak",
+            "en": "Be Captain America in Marvel and lead"
+          },
+          "image": "https://via.placeholder.com/600x400?text=CaptainAmerica"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "acc80da4-3811-46e0-993b-92994dc068de",
+        "option1": {
+          "text": {
+            "tr": "Breaking Bad’de Walter White’ın yerinde olmak",
+            "en": "Be Walter White in Breaking Bad"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BreakingBad"
+        },
+        "option2": {
+          "text": {
+            "tr": "Stranger Things’de Eleven olmak",
+            "en": "Be Eleven in Stranger Things"
+          },
+          "image": "https://via.placeholder.com/600x400?text=StrangerThings"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "042faf2a-5ea8-4413-824c-a9ea53a6f61d",
+        "option1": {
+          "text": {
+            "tr": "Game of Thrones’da ejderha sürmek",
+            "en": "Ride a dragon in Game of Thrones"
+          },
+          "image": "https://via.placeholder.com/600x400?text=GameOfThrones"
+        },
+        "option2": {
+          "text": {
+            "tr": "The Mandalorian’da ödül avcısı olmak",
+            "en": "Be a bounty hunter in The Mandalorian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Mandalorian"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "615648eb-b737-43f0-a619-8aa76dcd25c7",
+        "option1": {
+          "text": {
+            "tr": "Hogwarts’ta büyü yapmak",
+            "en": "Cast spells at Hogwarts"
+          },
+          "image": "https://via.placeholder.com/600x400?text=HarryPotter"
+        },
+        "option2": {
+          "text": {
+            "tr": "The Witcher’da canavar avlamak",
+            "en": "Hunt monsters in The Witcher"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TheWitcher"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "a375c7ad-e8ca-469b-ae5e-f71440a0b5ed",
+        "option1": {
+          "text": {
+            "tr": "Black Mirror’da sanal gerçeklik evreninde yaşamak",
+            "en": "Live in a virtual reality world in Black Mirror"
+          },
+          "image": "https://via.placeholder.com/600x400?text=BlackMirror"
+        },
+        "option2": {
+          "text": {
+            "tr": "Westworld’de robot olarak insanları kandırmak",
+            "en": "Deceive humans as a robot in Westworld"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Westworld"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "ea6bcac0-0137-493e-b007-f7ee1f0498cc",
+        "option1": {
+          "text": {
+            "tr": "The Office’de Michael Scott’ın ofisinde çalışmak",
+            "en": "Work in Michael Scott’s office in The Office"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TheOffice"
+        },
+        "option2": {
+          "text": {
+            "tr": "Friends’de Central Perk’te kahve içmek",
+            "en": "Drink coffee at Central Perk in Friends"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Friends"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "0e712fae-e3fa-4d42-8a8b-fe5de9d37fa9",
+        "option1": {
+          "text": {
+            "tr": "Marvel evreninde Örümcek Adam olmak",
+            "en": "Be Spider-Man in the Marvel Universe"
+          },
+          "image": "https://via.placeholder.com/600x400?text=SpiderMan"
+        },
+        "option2": {
+          "text": {
+            "tr": "DC evreninde Batman olmak",
+            "en": "Be Batman in the DC Universe"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Batman"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "92eab1a9-87ed-42e5-bbfc-7ae3177395c9",
+        "option1": {
+          "text": {
+            "tr": "Narcos’da uyuşturucu karteli lideri olmak",
+            "en": "Be a drug cartel leader in Narcos"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Narcos"
+        },
+        "option2": {
+          "text": {
+            "tr": "Peaky Blinders’da Shelby ailesinin lideri olmak",
+            "en": "Lead the Shelby family in Peaky Blinders"
+          },
+          "image": "https://via.placeholder.com/600x400?text=PeakyBlinders"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "b150e7ca-89e5-44e9-8da4-0723a659cc70",
+        "option1": {
+          "text": {
+            "tr": "The Crown’da kraliyet ailesinin bir üyesi olmak",
+            "en": "Be a member of the royal family in The Crown"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TheCrown"
+        },
+        "option2": {
+          "text": {
+            "tr": "Mad Men’de reklamcılık dünyasında yükselmek",
+            "en": "Rise in the advertising world in Mad Men"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MadMen"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "ee3a7fb5-ab9f-4637-b05e-428003c9e25d",
+        "option1": {
+          "text": {
+            "tr": "Rick and Morty ile galaksiler arası maceraya çıkmak",
+            "en": "Go on intergalactic adventures with Rick and Morty"
+          },
+          "image": "https://via.placeholder.com/600x400?text=RickAndMorty"
+        },
+        "option2": {
+          "text": {
+            "tr": "Futurama’da geleceğin dünyasında yaşamak",
+            "en": "Live in the future world in Futurama"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Futurama"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "d3be6756-95a4-4374-8112-49aea1b35f2e",
+        "option1": {
+          "text": {
+            "tr": "The Walking Dead’de zombi sürüsünden kaçmak",
+            "en": "Escape the zombie horde in The Walking Dead"
+          },
+          "image": "https://via.placeholder.com/600x400?text=WalkingDead"
+        },
+        "option2": {
+          "text": {
+            "tr": "Jurassic Park’ta dinozorlarla hayatta kalmak",
+            "en": "Survive with dinosaurs in Jurassic Park"
+          },
+          "image": "https://via.placeholder.com/600x400?text=JurassicPark"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "9c08efc0-16fd-4865-8466-f10363d46121",
+        "option1": {
+          "text": {
+            "tr": "Doctor Who’da zamanda yolculuk yapmak",
+            "en": "Time travel in Doctor Who"
+          },
+          "image": "https://via.placeholder.com/600x400?text=DoctorWho"
+        },
+        "option2": {
+          "text": {
+            "tr": "Sherlock Holmes gibi gizemler çözmek",
+            "en": "Solve mysteries like Sherlock Holmes"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Sherlock"
+        },
+        "votes1": 0,
+        "votes2": 1
+      },
+      {
+        "id": "c6ba0ca1-9453-4b5c-9c3d-a3cabb99557c",
+        "option1": {
+          "text": {
+            "tr": "Money Heist’de Profesör olmak",
+            "en": "Be the Professor in Money Heist"
+          },
+          "image": "https://via.placeholder.com/600x400?text=MoneyHeist"
+        },
+        "option2": {
+          "text": {
+            "tr": "Peaky Blinders’da Shelby olmak",
+            "en": "Be Shelby in Peaky Blinders"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Shelby"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "2c6cc57c-fb05-4ff8-ab67-1d3d135452a5",
+        "option1": {
+          "text": {
+            "tr": "The Simpsons’da Homer olmak",
+            "en": "Be Homer in The Simpsons"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Simpsons"
+        },
+        "option2": {
+          "text": {
+            "tr": "Family Guy’da Peter Griffin olmak",
+            "en": "Be Peter Griffin in Family Guy"
+          },
+          "image": "https://via.placeholder.com/600x400?text=FamilyGuy"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "50804666-d7c5-4e0a-8071-7567cb19a7c6",
+        "option1": {
+          "text": {
+            "tr": "Narcos’da Pablo Escobar olmak",
+            "en": "Be Pablo Escobar in Narcos"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Narcos"
+        },
+        "option2": {
+          "text": {
+            "tr": "The Wire’da dedektif olmak",
+            "en": "Be a detective in The Wire"
+          },
+          "image": "https://via.placeholder.com/600x400?text=TheWire"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "a8f6c105-c13c-45ef-a79e-d884cde9ba0f",
+        "option1": {
+          "text": {
+            "tr": "The Crown’da kraliçe olmak",
+            "en": "Be the queen in The Crown"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Queen"
+        },
+        "option2": {
+          "text": {
+            "tr": "Game of Thrones’da Kral olmak",
+            "en": "Be the king in Game of Thrones"
+          },
+          "image": "https://via.placeholder.com/600x400?text=King"
+        },
+        "votes1": 0,
+        "votes2": 0
+      },
+      {
+        "id": "6307d03b-5d79-4f66-8afd-44ed664aa9f6",
+        "option1": {
+          "text": {
+            "tr": "The Mandalorian’da ödül avcısı olmak",
+            "en": "Be a bounty hunter in The Mandalorian"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Mandalorian"
+        },
+        "option2": {
+          "text": {
+            "tr": "Star Wars’da Jedi olmak",
+            "en": "Be a Jedi in Star Wars"
+          },
+          "image": "https://via.placeholder.com/600x400?text=Jedi"
+        },
+        "votes1": 0,
+        "votes2": 0
+      }
+    ]
+  }
+}

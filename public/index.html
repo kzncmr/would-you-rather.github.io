@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hangisini Seçerdin?</title>
+  <style>
+    body { font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(135deg, #d1d8f0, #e6d5f7); margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center; min-height: 100vh; overflow: hidden;}
+    .container { max-width: 100%; width: 100%; display: flex; flex-direction: column; align-items: center;}
+    .header { width: 100%; padding: 20px; background: #000000; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); display: flex; align-items: center; justify-content: space-between;}
+    .header-left { display: flex; align-items: center; gap: 20px;}
+    h1 { font-size: 2.5em; margin: 0; text-align: center; flex-grow: 1; color: #ffffff; font-weight: 600; letter-spacing: 0.5px;}
+    select { padding: 12px; font-size: 1em; border: none; border-radius: 10px; background: #1e293b; color: #ffffff; cursor: pointer; transition: background 0.3s;}
+    select:hover { background: #334155;}
+    select:focus { outline: none; box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.2);}
+    .options { display: flex; width: 100%; height: calc(100vh - 100px); overflow: hidden; gap: 8px; padding: 8px; background: #2f4f4f;}
+    .option { flex: 1; display: flex; align-items: center; justify-content: center; cursor: pointer; position: relative; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);}
+    .option-left { background: linear-gradient(to top, rgba(0, 0, 255, 0.6), rgba(0, 0, 255, 0.4));}
+    .option-right { background: linear-gradient(to top, rgba(255, 0, 0, 0.6), rgba(255, 0, 0, 0.4));}
+    .option-image { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-size: cover; background-position: center; z-index: -1;}
+    .option-content { width: 100%; padding: 40px 20px; color: white; text-align: center; z-index: 1;}
+    .option-content h2 { margin: 0; font-size: 2.2em; font-weight: 500; text-shadow: 0 3px 6px rgba(0, 0, 0, 0.7);}
+    .stats { margin-top: 20px; font-size: 1.2em; background: rgba(0, 0, 0, 0.7); padding: 12px 20px; border-radius: 10px; display: inline-block; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);}
+    .error { position: fixed; top: 20px; background: #ff4444; color: white; padding: 15px 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); z-index: 1000; text-align: center;}
+    @media (max-width: 600px) {
+      .options { flex-direction: column; height: auto; padding: 8px; gap: 8px; background: #2f4f4f;}
+      .option { min-height: 250px; border-radius: 10px;}
+      .header { flex-direction: column; align-items: center; gap: 15px; padding: 15px;}
+      .header-left { flex-direction: column; align-items: center; width: 100%;}
+      select { width: 100%; max-width: 280px;}
+      h1 { font-size: 2em;}
+      .option-content h2 { font-size: 1.8em;}
+      .stats { font-size: 1em; padding: 10px 15px;}
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="header-left">
+        <select id="category" onchange="selectCategory()">
+          <option value="">Tüm Kategoriler</option>
+        </select>
+      </div>
+      <h1 id="title">Hangisini Seçerdin?</h1>
+      <select id="language" onchange="changeLanguage()">
+        <option value="tr">Türkçe</option>
+        <option value="en">English</option>
+      </select>
+    </div>
+    <div class="options" id="options"></div>
+  </div>
+  <script>
+    const translations = {
+      tr: {
+        title: "Hangisini Seçerdin?",
+        selectCategory: "Tüm Kategoriler",
+        categories: {
+          celebrity: "Ünlü",
+          vehicles: "Araçlar",
+          property: "Mülk",
+          superpowers: "Süper Güçler",
+          extreme: "Ekstrem",
+          scifi: "Bilim Kurgu & Fantazi",
+          deal_with_devil: "Şeytanla Anlaşma",
+          movies_series: "Filmler & Diziler"
+        },
+        votes: "oy",
+        error: "Sunucuya bağlanılamadı. Lütfen daha sonra tekrar deneyin.",
+      },
+      en: {
+        title: "Would You Rather?",
+        selectCategory: "All Categories",
+        categories: {
+          celebrity: "Celebrity",
+          vehicles: "Vehicles",
+          property: "Property",
+          superpowers: "Superpowers",
+          extreme: "Extreme",
+          scifi: "Sci-Fi & Fantasy",
+          deal_with_devil: "Deal with the Devil",
+          movies_series: "Movies & Series"
+        },
+        votes: "votes",
+        error: "Failed to connect to the server. Please try again later.",
+      },
+    };
+
+    let currentLanguage = 'tr';
+    let currentQuestion = null;
+    let currentVotes = { votes1: 0, votes2: 0 };
+    let showStats = false;
+    let currentCategory = '';
+
+    function showError(message) {
+      const errorDiv = document.createElement('div');
+      errorDiv.className = 'error';
+      errorDiv.textContent = message;
+      document.body.appendChild(errorDiv);
+      setTimeout(() => errorDiv.remove(), 3000);
+    }
+
+    async function fetchCategories() {
+      try {
+        const response = await fetch('/api/questions');
+        const categories = await response.json();
+        const t = translations[currentLanguage];
+        const categorySelect = document.getElementById('category');
+        categorySelect.innerHTML = `<option value="">${t.selectCategory}</option>` +
+          Object.keys(categories).map(cat => `<option value="${cat}">${t.categories[cat]}</option>`).join('');
+      } catch (error) {
+        showError(translations[currentLanguage].error);
+      }
+    }
+
+    async function getRandomQuestion(category) {
+      try {
+        const url = category ? `/api/questions?category=${category}` : `/api/questions`;
+        const response = await fetch(url);
+        const data = await response.json();
+        let questions = category ? data : Object.values(data).flat();
+        if (questions.length === 0) return null;
+        return questions[Math.floor(Math.random() * questions.length)];
+      } catch (error) {
+        showError(translations[currentLanguage].error);
+        return null;
+      }
+    }
+
+    async function selectCategory() {
+      currentCategory = document.getElementById('category').value;
+      currentQuestion = await getRandomQuestion(currentCategory);
+      if (currentQuestion) {
+        currentVotes = { votes1: currentQuestion.votes1, votes2: currentQuestion.votes2 };
+        showStats = false;
+        renderQuestion();
+      }
+    }
+
+    function renderQuestion() {
+      if (!currentQuestion) return;
+      const t = translations[currentLanguage];
+      const totalVotes = currentVotes.votes1 + currentVotes.votes2;
+      const percentage1 = totalVotes ? ((currentVotes.votes1 / totalVotes) * 100).toFixed(1) : 0;
+      const percentage2 = totalVotes ? ((currentVotes.votes2 / totalVotes) * 100).toFixed(1) : 0;
+
+      document.getElementById('options').innerHTML = `
+        <div class="option option-left" onclick="vote(1, '${currentQuestion.id}')">
+          <div class="option-image" style="background-image: url(${currentQuestion.option1?.image || ''})"></div>
+          <div class="option-content">
+            <h2>${currentQuestion.option1?.text?.[currentLanguage] || ''}</h2>
+            ${showStats ? `<div class="stats">${currentVotes.votes1} ${t.votes} (${percentage1}%)</div>` : ''}
+          </div>
+        </div>
+        <div class="option option-right" onclick="vote(2, '${currentQuestion.id}')">
+          <div class="option-image" style="background-image: url(${currentQuestion.option2?.image || ''})"></div>
+          <div class="option-content">
+            <h2>${currentQuestion.option2?.text?.[currentLanguage] || ''}</h2>
+            ${showStats ? `<div class="stats">${currentVotes.votes2} ${t.votes} (${percentage2}%)</div>` : ''}
+          </div>
+        </div>
+      `;
+    }
+
+    async function vote(option, questionId) {
+      try {
+        const response = await fetch('/api/vote', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ questionId, option })
+        });
+        const data = await response.json();
+        currentVotes = { votes1: data.votes1, votes2: data.votes2 };
+        showStats = true;
+        renderQuestion();
+        setTimeout(async () => {
+          currentQuestion = await getRandomQuestion(currentCategory);
+          if (currentQuestion) {
+            currentVotes = { votes1: currentQuestion.votes1, votes2: currentQuestion.votes2 };
+            showStats = false;
+            renderQuestion();
+          }
+        }, 2000);
+      } catch (error) {
+        showError(translations[currentLanguage].error);
+      }
+    }
+
+    function changeLanguage() {
+      currentLanguage = document.getElementById('language').value;
+      updateUI();
+    }
+
+    async function updateUI() {
+      const t = translations[currentLanguage];
+      document.getElementById('title').textContent = t.title;
+      await fetchCategories();
+      if (currentQuestion) {
+        renderQuestion();
+      } else {
+        currentQuestion = await getRandomQuestion('');
+        if (currentQuestion) {
+          currentVotes = { votes1: currentQuestion.votes1, votes2: currentQuestion.votes2 };
+          renderQuestion();
+        }
+      }
+    }
+
+    // İlk yüklemede başlat
+    updateUI();
+  </script>
+</body>
+</html>
